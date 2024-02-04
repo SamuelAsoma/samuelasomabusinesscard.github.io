@@ -29,6 +29,9 @@ body {
     and use it in your business card.
      */
 }
+h3 {
+    font-size: 1.3rem;
+}
 
 .border-blue {
     border: 1px dotted blue;
